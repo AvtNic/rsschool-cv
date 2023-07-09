@@ -1,1 +1,1 @@
-# rsschool-cv
+https://AvtNic.github.io/rsschool-cv/cv
