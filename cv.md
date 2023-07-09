@@ -2,7 +2,7 @@
 
 ### **CV**
 
-![](https://github.com/AvtNic/rsschool-cv/blob/gh-page/photo.png)
+![](https://github.com/AvtNic/rsschool-cv/blob/gh-pages/photo.png)
 
  **Name**: Mikalai
 
